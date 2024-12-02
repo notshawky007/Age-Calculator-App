@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/5590ad8c-f78b-419b-9c26-9e5c3156b9bc)# Age Calculator
+# Age Calculator
 
 A simple web application that calculates your age based on your date of birth. Input your day, month, and year, and instantly see your age in years. This project is built with HTML, CSS, and JavaScript, featuring input validation for a user-friendly experience.
 
