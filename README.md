@@ -4,8 +4,8 @@ A simple web application that calculates your age based on your date of birth. I
 
 ## Demo
 
-![Age Calculator Demo](![image](https://github.com/user-attachments/assets/30f09922-cda6-4d18-b83b-dc3ae5b25358)
-https://notshawky007.github.io/Age-Calculator-App/)
+![image](https://github.com/user-attachments/assets/30f09922-cda6-4d18-b83b-dc3ae5b25358)
+https://notshawky007.github.io/Age-Calculator-App/
 
 ## Features
 
